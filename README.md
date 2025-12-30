@@ -43,9 +43,7 @@ This chatbot supports **Multi-User Mode** (open access) and **Authorized-User Mo
 
 ## 🖼 **Workflow Image**
 
-## 🖼 **Workflow Image**
-
-![AI Mentor Chatbot](C:/Users/bhava/OneDrive/Desktop/Innomatics/Agentic_AI/AI Mentor Chatbot (Telegram and n8n)/AI Mentor Chatbot Image.png)
+![Uploading AI Mentor Chatbot Image.png…]()
 
 ---
 
