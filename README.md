@@ -43,14 +43,7 @@ This chatbot supports **Multi-User Mode** (open access) and **Authorized-User Mo
 
 ## 🖼 **Workflow Image**
 
-Replace `workflow.png` with your actual workflow screenshot.
-
-```markdown
-![Workflow]
-<img width="1920" height="876" alt="AI Mentor Chatbot Image" src="https://github.com/user-attachments/assets/8aa01325-3abe-4cd3-bd37-8ba8a63e08b7" />
-
-```
-
+"C:\Users\bhava\OneDrive\Desktop\Innomatics\Agentic_AI\AI Mentor Chatbot (Telegram and n8n)\AI Mentor Chatbot Image.png"
 ---
 
 ## 🛠 **Tech Stack**
