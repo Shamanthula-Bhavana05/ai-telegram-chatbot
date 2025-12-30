@@ -41,15 +41,6 @@ This chatbot supports **Multi-User Mode** (open access) and **Authorized-User Mo
 
 ---
 
-## 🖼 **Workflow Image**
-
-## 🖼 **Workflow Image**
-
-![AI Mentor Chatbot](<img width="1920" height="876" alt="AI Mentor Chatbot Image" src="https://github.com/user-attachments/assets/da7b7a98-e1ab-41d3-bf7d-c9a38499145b" />
-)
-
----
-
 ## 🛠 **Tech Stack**
 
 * **n8n Automation Platform**
